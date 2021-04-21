@@ -1,6 +1,6 @@
 <?php 
     // Development Connection
-    $host = 'localhost';
+    $host = 'l27.0.0.1';
     $db = 'attendee_db';
     $user = 'root';
     $pass = '';
@@ -8,9 +8,9 @@
 
     //Remote Database Connection
     // $host = 'remotemysql.com';
-    // $db = 'NC1HPsPMvA';
-    // $user = 'NC1HPsPMvA';
-    // $pass = 'rqUDdNcsXH';
+    // $db = 'zAzvKVn2TK';
+    // $user = 'zAzvKVn2TK';
+    // $pass = '5akShJQDZ1';
     // $charset = 'utf8mb4';
 
      $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
